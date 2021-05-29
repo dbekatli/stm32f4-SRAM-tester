@@ -18,7 +18,7 @@ PE[2-8] | A[8-14]
 PE9 | WE
 PE10 | OE
 
-The chip enable pin of the SRAM is connected to ground as the chip doesn't need to be disabled in this scenario. 
+The chip enable pin of the SRAM is connected to GND as the chip doesn't need to be disabled in this scenario. 
 
 <h1>TODO:</h1>
 
